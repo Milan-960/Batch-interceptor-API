@@ -51,3 +51,7 @@ PS: There are many apps which uses the batching solution :)
 ### Benefits
 
 - Batching enhances efficiency by consolidating multiple requests into one, significantly lightening the servers burden. Furthermore, it helps bypass potential rate limits set by servers.
+
+## Here is the result!
+
+<img src="./SS/Home.png" alt="home" />
